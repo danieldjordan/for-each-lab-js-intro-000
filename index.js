@@ -3,5 +3,9 @@ function iterativeLog(array){
 }
 
 function iterate(callback){
+  var something = ['cat', 'dog', 'fish']
   
+  something.forEach(callback)
+  
+  return something;
 }
