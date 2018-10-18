@@ -1,3 +1,3 @@
-function iterativeLog(passedArray){
+function iterativeLog(passedArray, index, ){
   passedArray.forEach()
 }
